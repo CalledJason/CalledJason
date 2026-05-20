@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg1MzBvZG9wbjV6MXE2Y2V1YWRwbDFtN3U5cXl2cHh3MnV0eGJnZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="100%" />
+<img src=https://i.pinimg.com/736x/92/6d/42/926d426df02246939c5038d61a846675.jpg width="100%" />
 
 # Hey there, I'm Rendy 👋
 
