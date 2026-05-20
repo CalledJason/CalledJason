@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=https://i.pinimg.com/736x/92/6d/42/926d426df02246939c5038d61a846675.jpg width="100%" />
+<img src=https://i.pinimg.com/736x/92/6d/42/926d426df02246939c5038d61a846675.jpg width="100%" height="230px" object-fit: cover/>
 
 # Hey there, I'm Rendy 👋
 
