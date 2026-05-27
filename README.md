@@ -56,5 +56,5 @@
 # ⚡ Fun Fact
 
 ```txt
-I enjoy combining logical backend systems with clean and user-friendly interfaces.
+Debugging SQL feels easier than centering a div. 💀
 ```
